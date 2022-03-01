@@ -189,3 +189,6 @@ Backup*
 *.dep
 
 # End of https://www.toptal.com/developers/gitignore/api/iar
+
+# weiting add macOS
+.DS_Store
